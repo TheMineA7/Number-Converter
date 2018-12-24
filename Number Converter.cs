@@ -1,4 +1,7 @@
-﻿using System;
+//This program converts numbers from Hindu-Arabic to Roman, and vice versa.
+//In the textboxes you can only enter valid characters.
+//Also be carefull that the program only allows proper notation of roman numbers and uses the rules.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
